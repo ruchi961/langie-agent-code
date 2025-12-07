@@ -36,7 +36,6 @@ The atlas server
 https://drive.google.com/file/d/18nM5oUV48-5yYNj9VBlQTmNUgagogD_L/view?usp=sharing
 
 # Code explanation video 
-https://docs.google.com/presentation/d/1YfzrSKYfMIAYdoILN1np0dGmx6ZmKPpb/edit?usp=sharing&ouid=104005182274696488563&rtpof=true&sd=true
-
+https://drive.google.com/file/d/12MFoWSA_dt0Nn32IMPGPG2wZgAfKJ4c_/view?usp=sharing
 
 video explanation
